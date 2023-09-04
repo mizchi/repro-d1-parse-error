@@ -1,0 +1,7 @@
+compatibility_date = "2023-09-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "mydb2"
+database_id = "837018aa-cde8-49ce-ac2a-68225f45dea8"
+migrations_dir = ".wrangler/migrations"
